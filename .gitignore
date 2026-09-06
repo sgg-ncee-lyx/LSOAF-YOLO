@@ -1,0 +1,8 @@
+.claude/
+.idea/
+__pycache__/
+*.pyc
+*.pt
+*.pth
+mkdocs.yml
+docs/
