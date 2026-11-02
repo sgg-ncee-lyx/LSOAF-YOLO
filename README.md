@@ -51,15 +51,6 @@ python val.py
 
 </details>
 
-### Implementation details
-
-> **Note:** The core model definitions are not yet included in this repository. They will be released after the associated paper is published.
-
-* Overall architecture: `ultralytics/cfg/models/LSOAF-YOLO.yaml` and `ultralytics/cfg/models/LN-YOLO.yaml` — to be released
-* DAFM module: `ultralytics/nn/modules/DAFM.py` — to be released
-* VolSA module: `ultralytics/nn/modules/Volumetric-SelfAttention.py` — to be released
-
-
 
 ### Data download
 
